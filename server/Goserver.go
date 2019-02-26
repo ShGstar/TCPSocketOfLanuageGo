@@ -4,7 +4,7 @@ import "net"
 import "fmt"
 
 func main() {
-	//服务器监听
+	//服务器
 	listener, err := net.Listen("tcp", "localhost:7373")
 	if err != nil {
 		fmt.Println("Listen is err!：", err)

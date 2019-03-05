@@ -1,0 +1,4 @@
+# TCPSocketOfLanuageGo
+TCP
+Client和Server为简单的Sotcket连接发送
+Client2和Server2为简单的文件发送
